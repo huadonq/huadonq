@@ -34,3 +34,4 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=huadonq&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
+![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=huadonq&theme=dracula)
