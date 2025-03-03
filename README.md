@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm zhaojihuai</h1>
+<h1 align="center">Hi 👋, I'm jihuaizhao</h1>
 <h3 align="center">A passionate CS PhD from USTB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huadonq&label=Profile%20views&color=0e75b6&style=flat" alt="huadonq" /> </p>
