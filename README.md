@@ -9,9 +9,9 @@
 
 - 📝 I regularly write articles on [https://blog.csdn.net/pontoon?type=blog](https://blog.csdn.net/pontoon?type=blog)
 
-- 💬 Ask me about **Object Detection, GAN, IQA**
+- 💬 Ask me about **3D Vision**
 
-- 📫 How to reach me **jhuaizhao@163.com**
+- 📫 How to reach me **jihuaizhao@xs.ustb.edu.cn**
 
 - ⚡ Fun fact **I think I am funny**
 
