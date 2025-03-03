@@ -33,7 +33,6 @@
 ### 💻 Activity Graph
 
 
-![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=huadonq&theme=dracula)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huadonq" alt="huadonq" /></a> </p>
